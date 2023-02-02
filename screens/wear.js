@@ -146,7 +146,7 @@ export default function Wear({ route, navigation }) {
           }}>
           <Text
             style={{
-              fontFamily: 'Cairo',
+              // fontFamily: 'Cairo',
               fontSize: 28,
               fontWeight: '700',
               color: '#2687C8',
@@ -155,7 +155,7 @@ export default function Wear({ route, navigation }) {
           </Text>
           <Text
             style={{
-              fontFamily: 'Cairo',
+              // fontFamily: 'Cairo',
               fontSize: 16,
               fontWeight: '800',
               color: '#2687C8',
@@ -191,7 +191,7 @@ export default function Wear({ route, navigation }) {
           }}>
           <Text
             style={{
-              fontFamily: 'Cairo',
+              // fontFamily: 'Cairo',
               fontSize: 16,
               fontWeight: '400',
               color: 'white',

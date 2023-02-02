@@ -67,7 +67,7 @@ export default function Header(props) {
       </View>
       <ScrollView
         horizontal={true}
-        style={{ justifyContent: 'center', backgroundColor: '#ebeef0' }}>
+        contentContainerStyle={{ justifyContent: 'center', backgroundColor: '#ebeef0' }}>
         <TouchableOpacity
           onPress={() => {
             props.navigation.navigate('Home');

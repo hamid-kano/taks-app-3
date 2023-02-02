@@ -144,7 +144,7 @@ export default function Article({ route, navigation }) {
                 bottom: 0,
                 left: 0,
                 width: '100%',
-                fontFamily: 'Cairo',
+                // fontFamily: 'Cairo',
               }}>
               {item.title}
             </Text>
@@ -185,7 +185,7 @@ export default function Article({ route, navigation }) {
                 bottom: 0,
                 left: 0,
                 width: '100%',
-                fontFamily: 'Cairo',
+                // fontFamily: 'Cairo',
               }}>
               {item.body.substr(0, 150) + '.... أقراء المزيد'}
             </Text>

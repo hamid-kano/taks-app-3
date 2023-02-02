@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "taks-app-3",
-    "slug": "snack-38054c78-008b-4e87-9af9-c4239b4790a4",
+    "name": "طقس الوطن",
+    "slug": "taks-watan",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,11 +24,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.hamidkano.takswatan"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "for Home Mall Ayaz"
+    "description": "طقس الوطن"
   }
 }
